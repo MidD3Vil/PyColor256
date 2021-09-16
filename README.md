@@ -1,9 +1,9 @@
 # PyColor256
 
 **PyColor256** é um módulo simples de cores 
-Este é um projeto de código aberto feito por mim (Vinícius) do início ao fim
+Este é um projeto de código aberto feito por mim (Vinícius)
 
-**PyColor256** escrito 100% em Python
+**PyColor256** escrito 100% em Python sem utilizar nenhum módulo
 
 ## Funções
 
