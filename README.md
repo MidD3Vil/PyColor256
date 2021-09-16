@@ -19,4 +19,5 @@ Celsius-Fahrenheit (e vice-versa) escrito em Python.
 
 ## Novidades
 
-* A opção **rainbow_gradient** já está disponível. Ela irá colorir o texto/ASCII digitado com as cores básicas gerando uma impressão de Arco-Íris
+* A opção **rainbow_gradient** já está disponível. Ela irá colorir o texto/ASCII 
+digitado com as cores básicas gerando uma impressão de Arco-Íris
