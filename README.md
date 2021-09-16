@@ -1,6 +1,6 @@
-# aluratemp
+# PyColor
 
-**aluratemp** é um módulo simples de cores feito 100% em python
+**PyColor** é um módulo simples de cores feito 100% em python
 Este é um projeto de código aberto feito por mim (Vinícius) do início ao fim
 
 Celsius-Fahrenheit (e vice-versa) escrito em Python.
