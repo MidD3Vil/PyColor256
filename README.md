@@ -16,3 +16,7 @@ Celsius-Fahrenheit (e vice-versa) escrito em Python.
 
 * Para utilizar as cores adicionais: **all_colors('texto', 'número da cor')**
 * Para obter ajuda basta usar a função **"list_colors"** e o programa entregara uma tabela com todas as cores
+
+## Novidades
+
+* A opção **rainbow_gradient** já está disponível. Ela irá colorir o texto/ASCII digitado com as cores básicas gerando uma impressão de Arco-Íris
