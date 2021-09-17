@@ -7,6 +7,7 @@ Este é um projeto de código aberto feito por mim (Vinícius)
 
 ## Install
 `pip install PyColor256==1.0.0`
+
 https://pypi.org/project/PyColor256/1.0.0/
 
 ## Funções
