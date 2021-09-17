@@ -5,6 +5,10 @@ Este é um projeto de código aberto feito por mim (Vinícius)
 
 **PyColor256** escrito 100% em Python sem utilizar nenhum módulo
 
+## Install
+`pip install PyColor256==1.0.0`
+https://pypi.org/project/PyColor256/1.0.0/
+
 ## Funções
 
 * `Cores de 8 bits (256)` - Tecnologia avançada, e tabelas de 256 cores pré-selecionadas ficaram disponíveis, como mostrado abaixo.
