@@ -12,13 +12,12 @@ Este é um projeto de código aberto feito por mim (Vinícius)
 
 ## Help
 
-* As cores básicas já são pré definidas: **{cor}('texto')**
+* As cores básicas já são pré definidas: **{cor}('texto')**. Exemplo: **PyColor256.red('Albania')**
 
-* Para utilizar as cores adicionais: **all_colors('texto', 'número da cor')**
-* Para obter ajuda basta usar a função **"list_colors"** e o programa entregara uma tabela com todas as cores
-
+* Para utilizar as cores adicionais: **all_colors('texto', 'número da cor')**. Exemplo: **PyColor256.all_colors('Albania', '17')**
+* Para obter ajuda basta usar a função **"list_colors"** e o programa entregara uma tabela com todas as cores. Exemplo: **PyColor256.list_colors()**
 ## Novidades
 
-* `16/09` A opção **rainbow_gradient** já está disponível. 
+* `16/09` A opção **rainbow_gradient** já está disponível. Exemplo: **PyColor256.rainbow_gradient('Albania')**
 
 Ela irá colorir o texto/ASCII digitado com as cores básicas gerando uma impressão de Arco-Íris
